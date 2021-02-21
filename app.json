@@ -1,0 +1,12 @@
+{
+  "name": "pietest",
+  "displayName": "pietest",
+  "expo": {
+    "name": "pietest",
+    "slug": "pietest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
