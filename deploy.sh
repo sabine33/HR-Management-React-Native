@@ -1,0 +1,1 @@
+eval `ssh-agent` && ssh-add ~/github && git add . && git commit -m "New changes @ `date`" && git push origin master
