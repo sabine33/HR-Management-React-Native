@@ -4,10 +4,10 @@
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/sabine33/HR-Management-React-Native/master/screenshots/screenshot_hrapp%20(16).jpg">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/sabine33/HR-Management-React-Native/master/screenshots/screenshot_hrapp%20(17).jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/sabine33/HR-Management-React-Native/master/screenshots/screenshot_hrapp%20(18).jpg">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/sabine33/HR-Management-React-Native/master/screenshots/screenshot_hrapp%20(19).jpg">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/sabine33/HR-Management-React-Native/master/screenshots/screenshot_hrapp%20(20).jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/sabine33/HR-Management-React-Native/master/screenshots/screenshot_hrapp%20(21).jpg">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/sabine33/HR-Management-React-Native/master/screenshots/screenshot_hrapp%20(22).jpg">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/sabine33/HR-Management-React-Native/master/screenshots/screenshot_hrapp%20(23).jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/sabine33/HR-Management-React-Native/master/screenshots/screenshot_hrapp%20(24).jpg">|
+<!-- 
 ![Demo UI](screenshots/screenshot_hrapp%20(16).jpg)
 ![Demo UI](screenshots/screenshot_hrapp%20(17).jpg)
 ![Demo UI](screenshots/screenshot_hrapp%20(18).jpg)
@@ -23,4 +23,4 @@
 ![Demo UI](screenshots/screenshot_hrapp%20(28).jpg)
 ![Demo UI](screenshots/screenshot_hrapp%20(29).jpg)
 ![Demo UI](screenshots/screenshot_hrapp%20(30).jpg)
-
+ -->
